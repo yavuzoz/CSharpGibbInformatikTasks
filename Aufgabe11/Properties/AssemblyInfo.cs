@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("C#-Gibb-Informatik-Tasks")]
+[assembly: AssemblyTitle("Aufgabe-11")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("HP Inc.")]
-[assembly: AssemblyProduct("C#-Gibb-Informatik-Tasks")]
+[assembly: AssemblyProduct("Aufgabe-11")]
 [assembly: AssemblyCopyright("Copyright © HP Inc. 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("566b83ac-1ab9-44b5-9007-20a112034347")]
+[assembly: Guid("fc6e68e8-47cc-4658-ba45-45efe34aff98")]
 
 // Version information for an assembly consists of the following four values:
 //

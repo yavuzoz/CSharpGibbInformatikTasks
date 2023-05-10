@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{566B83AC-1AB9-44B5-9007-20A112034347}</ProjectGuid>
+    <ProjectGuid>{FC6E68E8-47CC-4658-BA45-45EFE34AFF98}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>C__Gibb_Informatik_Tasks</RootNamespace>
-    <AssemblyName>C#-Gibb-Informatik-Tasks</AssemblyName>
+    <RootNamespace>Aufgabe_11</RootNamespace>
+    <AssemblyName>Aufgabe-11</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
